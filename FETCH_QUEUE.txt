@@ -1,0 +1,10 @@
+Queued URLs for next fetch (updated):
+
+ByteDance:
+- https://arxiv.org/search/?query=ByteDance+recommendation+serving+system&searchtype=all
+
+Google:
+- https://arxiv.org/search/?query=Google+Monolith+update+recommender&searchtype=all
+
+Meta:
+- https://arxiv.org/search/?query=Meta+DLRM+serving+system&searchtype=all

@@ -1,0 +1,5 @@
+Cross-validation & open questions (updated):
+
+- Kuaishou’s UFramework mirrors Google Monolith conceptually; is system unification an inevitable end state?
+- How do unified frameworks coexist with rapid model experimentation (ByteDance-style)?
+- Does unification reduce innovation speed or ultimately accelerate it?
